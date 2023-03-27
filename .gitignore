@@ -1,0 +1,4 @@
+#defult cpp gitignore
+/lib
+/include/glm
+/include/sdl
